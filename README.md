@@ -1,5 +1,9 @@
 [Mac Admins Open Source](https://github.com/macadmins) exists to provide the code signing certificates which are now required due to increased security requirements in macOS, to open source projects which are used in SMB, enterprise and education environments across the globe.
 
+## Macadmin Tools
+You can find a community maintained list of tools at our sub-wiki page: [Macadmin Tools](/macadmins/macadmins.io/wiki/Macadmin-Tools)
+
+## Notable Projects
 Notable projects within the Mac Admins Open Source include:
 * [Nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 * [InstallApplications](https://github.com/macadmins/installapplications) - A tool for dynamically using installapplication
