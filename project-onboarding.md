@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mac Admins Open Source
+permalink: /project-onboarding/
 ---
 
 # Mac Admins Open Source Project Onboarding
