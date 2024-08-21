@@ -4,3 +4,9 @@ plugins:
 title: Mac Admins Open Source
 github:
   is_project_page: false
+url: https://macadmins.github.io
+navigation:
+  - name: Home
+    link: /
+  - name: Project Onboarding
+    link: /project-onboarding/
