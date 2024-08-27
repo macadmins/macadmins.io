@@ -8,5 +8,7 @@ url: https://macadmins.github.io
 navigation:
   - name: Home
     link: /
+  - name: Join the Board
+    link: /join-the-board/
   - name: Project Onboarding
     link: /project-onboarding/

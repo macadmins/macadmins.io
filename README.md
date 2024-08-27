@@ -5,6 +5,9 @@ title: Mac Admins Open Source
 
 [Mac Admins Open Source](https://github.com/macadmins) exists to provide the code signing certificates which are now required due to increased security requirements in macOS, to open source projects which are used in SMB, enterprise and education environments across the globe.
 
+## Join the Mac Admins Open Source Board
+We are looking for involved members of the Mac Admins Open Source Community who are interested in helping to steer the direction of Mac Admins Open Source. [Learn more](/join-the-board/)
+
 ## Macadmin Tools
 You can find a community maintained list of tools at our sub-wiki page: [Macadmin Tools](https://github.com/macadmins/macadmins.io/wiki/Macadmin-Tools)
 
