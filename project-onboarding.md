@@ -30,7 +30,7 @@ Once the request has been made, the following steps will be taken:
 * The maintainer of the project will migrate the repo into the Mac Admins github org and the maintainer will be granted permissions to the repository
 * Once the project is migrated, signed and all other work is complete, the project will be made public and will be announced in [#macadmins-opensource](https://macadmins.slack.com/archives/C0224B1QUSK) as well as various social media outlets.
 
-## Maintenence
+## Maintenance
 
 * It is expected that projects will be maintained over time and have a primary maintainer
 * If circumstances change and the primary maintainer can no longer manage the project, they are expected to find a new maintainer to carry on the work
