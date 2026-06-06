@@ -23,6 +23,7 @@ Notable projects within the Mac Admins Open Source include:
 * [Nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 * [osquery-extension](https://github.com/macadmins/osquery-extension) - An osquery extension for endpoint engineers
 * [Outset](https://github.com/macadmins/outset) - Automatically process packages and scripts during boot, login, or on demand.
+* [Pique](https://github.com/macadmins/pique) - A MacAdmin-focused QuickLook plugin with GitOps in mind
 * [SOFA](https://sofa.macadmins.io) - A MacAdmin's Simple Organized Feed (SOFA) for Apple Software Updates
 * [SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
 * [UMAD](https://github.com/macadmins/umad) - A tool to help users with pre-existing devices enroll into MDM
